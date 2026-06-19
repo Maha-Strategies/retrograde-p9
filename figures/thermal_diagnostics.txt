@@ -1,0 +1,12 @@
+--- Thermal Detection Diagnostic Summary ---
+a_9 = 550.0 AU, e_9 = 0.3, T_int = 40.0 K, albedo = 0.3
+Heliocentric distance range: 385.00 AU (perihelion) to 714.99 AU (aphelion)
+Effective temperature range: 40.11 K (perihelion) to 40.03 K (aphelion)
+
+[Methane-Depleted Atmosphere Model]
+  Perihelion: W1 mag = 16.184, Flux = 104.030 uJy
+  Aphelion:   W1 mag = 17.541, Flux = 29.813 uJy
+
+[Methane-Rich Atmosphere Model]
+  Perihelion: W1 mag = 22.184, Flux = 0.414 uJy
+  Aphelion:   W1 mag = 23.541, Flux = 0.119 uJy
